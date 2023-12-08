@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+
+
+<div class="Head" style="width: 1440px; height: 931.22px; position: relative">
+  <div class="Background" style="width: 1439px; height: 811.57px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.30); backdrop-filter: blur(4px)"></div>
+  <div class="More" style="width: 800px; height: 187.44px; left: 308px; top: 743.78px; position: absolute">
+    <div class="Group3" style="width: 136px; height: 135.59px; left: 448px; top: 0px; position: absolute">
+      <div class="Ellipse3" style="width: 136px; height: 135.59px; left: 0px; top: 0px; position: absolute; background: #E73E38; border-radius: 9999px"></div>
+      <div class="Frame" style="width: 108px; height: 107.68px; left: 14px; top: 13.96px; position: absolute">
+        <div class="Vector" style="width: 90.02px; height: 66.09px; left: 8.99px; top: 20.84px; position: absolute; background: white"></div>
+      </div>
+    </div>
+    <div class="Group4" style="width: 136px; height: 135.59px; left: 664px; top: 0px; position: absolute">
+      <div class="Ellipse4" style="width: 136px; height: 135.59px; left: 0px; top: 0px; position: absolute; background: #169EC8; border-radius: 9999px"></div>
+      <div class="Frame" style="width: 84px; height: 83.75px; left: 26px; top: 21.93px; position: absolute">
+        <div class="Vector" style="width: 75.60px; height: 83.75px; left: 4.20px; top: 0px; position: absolute; background: white"></div>
+      </div>
+    </div>
+    <div class="Group6" style="width: 179px; height: 187.44px; left: 0px; top: 0px; position: absolute">
+      <div class="Group1" style="width: 136px; height: 135.59px; left: 16px; top: 0px; position: absolute">
+        <div class="Ellipse1" style="width: 136px; height: 135.59px; left: 0px; top: 0px; position: absolute; background: #0964BD; border-radius: 9999px"></div>
+        <div class="Frame" style="width: 90px; height: 89.73px; left: 23px; top: 22.93px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div class="Vector" style="width: 78.75px; height: 68.65px; background: white"></div>
+          <div class="Vector" style="width: 64.67px; height: 11.22px; background: white"></div>
+        </div>
+      </div>
+      <div class="ReserverUnePlace" style="width: 179px; height: 22.93px; left: 0px; top: 164.51px; position: absolute; color: black; font-size: 19px; font-family: Inter; font-weight: 700; word-wrap: break-word">Reserver une place</div>
+    </div>
+    <div class="Group7" style="width: 136px; height: 187.44px; left: 232px; top: 0px; position: absolute">
+      <div class="Group2" style="width: 136px; height: 135.59px; left: 0px; top: 0px; position: absolute">
+        <div class="Ellipse2" style="width: 136px; height: 135.59px; left: 0px; top: 0px; position: absolute; background: #FF9F18; border-radius: 9999px"></div>
+        <div class="Frame" style="width: 94px; height: 74.78px; left: 21px; top: 30.91px; position: absolute">
+          <div class="Vector" style="width: 94px; height: 65.43px; left: 0px; top: 9.35px; position: absolute; background: white"></div>
+        </div>
+      </div>
+      <div class="Services" style="width: 82px; height: 22.93px; left: 30px; top: 164.51px; position: absolute; color: black; font-size: 19px; font-family: Inter; font-weight: 700; word-wrap: break-word">Services</div>
+    </div>
+    <div class="EvNements" style="width: 116px; height: 22.93px; left: 681px; top: 164.51px; position: absolute; color: black; font-size: 19px; font-family: Inter; font-weight: 700; word-wrap: break-word">Evénements</div>
+    <div class="LePortLive" style="width: 103px; height: 22.93px; left: 466px; top: 164.51px; position: absolute; color: black; font-size: 19px; font-family: Inter; font-weight: 700; word-wrap: break-word">Le port live </div>
+  </div>
+  <div class="Frame47" style="width: 833px; height: 224.39px; padding: 10px; left: 299px; top: 345.22px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+    <div class="Content" style="width: 813px; height: 204.39px; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px solid; flex-direction: column; justify-content: center; align-items: center; gap: 32px; display: flex">
+      <div class="BienvenueAu" style="color: white; font-size: 35px; font-family: Belleza; font-weight: 400; word-wrap: break-word">BIENVENUE AU</div>
+      <div class="PortVaubanDAntibes" style="color: white; font-size: 69px; font-family: Belleza; font-weight: 400; word-wrap: break-word">PORT VAUBAN D’ANTIBES:</div>
+      <div class="CapitaleMDiterranEnneDuYachting" style="color: white; font-size: 40px; font-family: Belleza; font-weight: 400; word-wrap: break-word">CAPITALE MÉDITERRANÉENNE DU YACHTING</div>
+    </div>
+  </div>
+  <div class="EffetOppacit" style="width: 1440px; height: 508.48px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, #155680 0%, rgba(21, 86, 128, 0) 100%)"></div>
+  <div class="Menu" style="width: 1300px; height: 318px; left: 61px; top: 5.22px; position: absolute">
+    <img class="Logo21" style="width: 335px; height: 318px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/335x318" />
+    <div class="Frame7" style="width: 301px; height: 56px; padding: 10px; left: 999px; top: 131px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+      <div class="Frame5" style="justify-content: flex-start; align-items: flex-start; gap: 15px; display: inline-flex">
+        <div class="Frame2" style="height: 36px; padding: 4px; background: rgba(255, 255, 255, 0.20); border-radius: 12px; overflow: hidden; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+          <div class="Glyph" style="width: 28px; height: 28px; position: relative">
+            <div class="Xmlid223" style="width: 21px; height: 21px; left: 3.50px; top: 3.50px; position: absolute; background: white"></div>
+          </div>
+        </div>
+        <div class="Frame3" style="padding-left: 5px; padding-right: 5px; padding-top: 6px; padding-bottom: 6px; background: rgba(255, 255, 255, 0.20); border-radius: 12px; overflow: hidden; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+          <div class="Fr" style="color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">FR</div>
+        </div>
+        <div class="Frame4" style="padding: 4px; background: rgba(255, 255, 255, 0.20); border-radius: 12px; overflow: hidden; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+          <div class="IconsUser" style="width: 27px; height: 27px; position: relative">
+            <div class="Group" style="width: 18px; height: 19.12px; left: 4.50px; top: 3.94px; position: absolute">
+              <div class="Vector" style="width: 9px; height: 9px; left: 4.50px; top: 0px; position: absolute; background: white"></div>
+              <div class="Vector" style="width: 18px; height: 9px; left: 0px; top: 10.12px; position: absolute; background: white"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="Frame1" style="width: 658px; height: 23px; left: 314px; top: 226px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 41px; display: inline-flex">
+      <div class="LePort" style="color: white; font-size: 20px; font-family: Belleza; font-weight: 400; word-wrap: break-word">LE PORT</div>
+      <div class="ActualitS" style="color: white; font-size: 20px; font-family: Belleza; font-weight: 400; word-wrap: break-word">ACTUALITÉS</div>
+      <div class="MDia" style="color: white; font-size: 20px; font-family: Belleza; font-weight: 400; word-wrap: break-word">MÉDIA</div>
+      <div class="InfosPratiques" style="color: white; font-size: 20px; font-family: Belleza; font-weight: 400; word-wrap: break-word">INFOS PRATIQUES</div>
+      <div class="Contact" style="color: white; font-size: 20px; font-family: Belleza; font-weight: 400; word-wrap: break-word">CONTACT</div>
+    </div>
+  </div>
+</div>
